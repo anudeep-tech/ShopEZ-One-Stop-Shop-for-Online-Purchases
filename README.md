@@ -1,5 +1,6 @@
 # ShopEZ-One-Stop-Shop-for-Online-Purchases
  Purpose:
+ 
  ShopEZ is designed to offer users a seamless and efficient online shopping experience. It acts as a
  one-stop destination for purchasing various categories of products, providing a user-friendly
  interface for customers and an administrative portal for sellers.
@@ -9,7 +10,7 @@
  - Browsing and searching products by category- Wishlist and cart management
  - Order placement and history tracking
  - Admin panel for managing inventory and use
- - 
+   
  Frontend:
  The frontend is built using React.js with a component-based architecture. It manages routing,
  product display, form validation, and state management using React Hooks.
