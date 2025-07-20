@@ -1,4 +1,4 @@
-# 🛒 ShopEZ – One-Stop Shop for Online Purchases
+ 🛒 ShopEZ – One-Stop Shop for Online Purchases
 
 ShopEZ is a full-stack web application built as part of a summer internship under APSCHE. It aims to provide users with a seamless and efficient online shopping experience. The platform allows customers to browse, search, and purchase products easily, while also supporting administrative functions for sellers.
 
@@ -14,7 +14,6 @@ ShopEZ is designed to provide a seamless and efficient online shopping experienc
 - Database: MySQL  
 - API Testing: Postman  
 
----
 
  👥 Team & Roles
 
