@@ -1,31 +1,44 @@
-# ShopEZ-One-Stop-Shop-for-Online-Purchases
- Purpose:
- 
- ShopEZ is designed to offer users a seamless and efficient online shopping experience. It acts as a
- one-stop destination for purchasing various categories of products, providing a user-friendly
- interface for customers and an administrative portal for sellers.
- 
- Features:
- - User registration and login with secure authentication
- - Browsing and searching products by category- Wishlist and cart management
- - Order placement and history tracking
- - Admin panel for managing inventory and use
-   
- Frontend:
- The frontend is built using React.js with a component-based architecture. It manages routing,
- product display, form validation, and state management using React Hooks.
+# 🛒 ShopEZ – One-Stop Shop for Online Purchases
 
- Backend:
- Backend is built with Node.js and Express.js. It exposes RESTful APIs for authentication, product
-management, cart operations, and orders.
+ShopEZ is a full-stack web application built as part of a summer internship under APSCHE. It aims to provide users with a seamless and efficient online shopping experience. The platform allows customers to browse, search, and purchase products easily, while also supporting administrative functions for sellers.
 
- Database:
- MongoDB is used for data storage. Mongoose is used for schema design and managing database
- queries. Collections include Users, Products, Cart, and Orders.
- 
- User Interface
- The UI is responsive and includes:
- - Navigation bar with login/logout, cart, wishlist
- - Category-wise product browsing
- - Admin login panel
- - Product cards with add-to-cart and wishlist   options.
+🚀 Purpose
+
+ShopEZ is designed to provide a seamless and efficient online shopping experience. It serves as a one-stop destination for purchasing products across various categories, offering a user-friendly interface for customers and an admin portal for sellers.
+
+
+ 🛠️ Tech Stack
+
+- Frontend: HTML, CSS, JavaScript  
+- Backend: PHP  
+- Database: MySQL  
+- API Testing: Postman  
+
+---
+
+ 👥 Team & Roles
+
+- Team Size: 4 members  
+- My Role: Frontend Developer, Team Leader  
+  - Designed and implemented the user interface for product listings, cart, and checkout  
+  - Integrated frontend with backend services using MySQL and PHP  
+  - Used Postman to test API endpoints and validate data flows  
+  - Managed task planning, supported debugging, and ensured timely delivery  
+
+
+
+🔑 Key Features
+
+- Product browsing with search and category filters  
+- Shopping cart management (add/remove items, quantity update)  
+- Checkout page with order summary  
+- Admin interface for adding and managing products  
+- Internal testing of core features with a working MVP  
+
+
+✅ Outcome
+
+We successfully built and tested a functional MVP of ShopEZ, including all major features like product search, cart functionality, and checkout. The experience improved our understanding of full stack development, frontend-backend integration, and team collaboration in a development environment.
+
+
+
