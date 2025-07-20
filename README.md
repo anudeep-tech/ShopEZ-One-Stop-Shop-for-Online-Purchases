@@ -37,7 +37,7 @@ ShopEZ is designed to provide a seamless and efficient online shopping experienc
 
 ✅ Outcome
 
-We successfully built and tested a functional MVP of ShopEZ, including all major features like product search, cart functionality, and checkout. The experience improved our understanding of full stack development, frontend-backend integration, and team collaboration in a development environment.
+We successfully built and tested a functional MVP of a shopping website, including all major features like product search, cart functionality, and checkout. The experience improved our understanding of full stack development, frontend-backend integration, and team collaboration in a development environment.
 
 
 
